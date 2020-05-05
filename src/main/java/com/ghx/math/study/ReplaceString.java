@@ -24,6 +24,7 @@ public class ReplaceString {
                 spacenum++;
             }
         }
+
         int oldLength = str.length();
         int oldIndex = oldLength - 1;
         int newLength = oldLength + spacenum*2;
