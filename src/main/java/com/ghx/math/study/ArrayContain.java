@@ -23,7 +23,6 @@ public class ArrayContain {
 //    }
 
     public static boolean Find(int target, int [][] array) {
-
         /*
         思路：
         根据数组的特点可以发现,如果从左下角开始查找更为方便
