@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 /**
  * @author：ghx
  * @date：2020/5/2 0:51
- * @describe：判断数组中是否含有该整数
+ * @describe：二维数组中的查找
  */
 public class ArrayContain {
 
