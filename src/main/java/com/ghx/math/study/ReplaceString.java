@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 /**
  * @author：ghx
  * @date：2020/5/2 23:14
- * @describe：空格替换为%20
+ * @describe：替换空格
  */
 public class ReplaceString {
 
