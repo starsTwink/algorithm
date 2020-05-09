@@ -6,6 +6,7 @@ import java.util.Stack;
  * @author：ghx
  * @date：2020/5/7 14:33
  * @describe：用两个栈实现队列
+ * 用两个栈来实现一个队列，完成队列的Push和Pop操作。 队列中的元素为int类型。
  * 栈是先进后出
  * 队是先进先出
  */
